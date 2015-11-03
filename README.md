@@ -14,6 +14,8 @@ Students will work in groups to create a calculator that accepts user input usin
 
 See a live working example of the simple calculator [here](http://learn-co-curriculum.github.io/fe-jquery-user-input-calc/)
 
+NOTE: Do not alter any of the code in the "document ready" section of `calc.js`. Once the new instance of your calculator is created, it should automatically fire a function to add an event listener onto the equals button.
+
 ##Before You Start
 ```shell
 # Install jasmine:
