@@ -32,4 +32,4 @@ US/docs/Web/JavaScript/Reference/Statements/function)
  * [jQuery API - Text](http://api.jquery.com/text/)
  * [Live Working Example](http://learn-co-curriculum.github.io/fe-jquery-user-input-calc/)
 
-<a href='https://learn.co/lessons/jQuery-user-input-calculator' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/jQuery-user-input-calculator' title='Code Challenge - jQuery User Input Calculator'>Code Challenge - jQuery User Input Calculator</a> on Learn.co and start learning to code for free.</p>
